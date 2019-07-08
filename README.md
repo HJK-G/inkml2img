@@ -6,7 +6,7 @@ use it by direct import
 #### example in jupyter notebook:
 ```python
 import inkml2img, glob, os
-inkml2img.inkml2img('2013ALL_inkml_data/200923-1556-49.inkml','./2013ALL_inkml_data_image/200923-1556-49.png')
+inkml2img.inkml2img('path/to/file/example.inkml','./path/to/destination/example.png')
 
 ```
 #### result:
