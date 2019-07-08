@@ -1,5 +1,6 @@
 import pickle as p
-import cv2, json,one_hot, scipy.misc, math
+import cv2, json, scipy.misc, math
+from inkml2img import one_hot
 import numpy as np
 from skimage.draw import line
 from skimage.morphology import thin
